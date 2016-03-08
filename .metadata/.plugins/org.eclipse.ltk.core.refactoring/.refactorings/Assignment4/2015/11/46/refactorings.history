@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 4 elements from project &apos;Assignment4&apos;&#x0A;- Original project: &apos;Assignment4&apos;&#x0A;- Original elements:&#x0A;     Assignment4.java&#x0A;     BinarySearchTree.java&#x0A;     BSTNode.java&#x0A;     InfixIterator.java" description="Delete elements" element1="/src&lt;{BSTNode.java" element2="/src&lt;{Assignment4.java" element3="/src&lt;{InfixIterator.java" element4="/src&lt;{BinarySearchTree.java" elements="4" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1447165567645" subPackages="false" version="1.0"/>
+</session>

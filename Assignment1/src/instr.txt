@@ -1,0 +1,12 @@
+FIND,Beatles
+FIND,Michael Jackson
+ADD,Jethro Tull,Aqualung,1971,CD,3,2.56
+ADD,Jethro Tull,Aqualung,1971,VINYL,4,5.90
+ADD,Jethro Tull,Aqualung,1971,CASSETTE,5,4.90
+SELL,Pink Floyd,Animals,1977,CD,3
+ADD,Michael Jackson,Thriller,1982,CD,5,8.70
+SELL,Beatles,Help!,1965,CD,5
+SELL,Beatles,Help!,1965,CD,2
+FIND,Beatles
+FIND,Michael Jackson
+
